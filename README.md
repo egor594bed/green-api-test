@@ -2,7 +2,7 @@
 
 Порядок работы:
 
-1)Перейти по сылке на сайт - 
+1)Перейти по сылке на сайт - clck.ru/34QjUs
 
 2)Ввести в указанные поля IdInstance и apiTokenInstance (инструкция где их получить https://green-api.com/docs/before-start/#cabinet)
 
